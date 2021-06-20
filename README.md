@@ -14,6 +14,7 @@ CREATE YOUR OWN ERC721 NFT TOKENS With  Digital Canvas Art
 Now Install dependencies by using command
 
 > ``` run command npm i ```
+> ``` npm install -g truffle```
 #### After that compile and migrate truffle
 >  Compile it with ``` truffle compile```
 >  and
@@ -24,6 +25,13 @@ Now Install dependencies by using command
 >run command ```npm run start```
 
 and yeah you are good to go.
+
+##COMMANDS
+
+> ```  npm install ```
+>``` npm install -g truffle```
+> ``` truffle compile```
+> ```truffle migrate --reset --network rinkeby ```
 
 
 
