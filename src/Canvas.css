@@ -1,0 +1,72 @@
+.canvas-component{
+    margin-top: 10vh;
+    min-height: 100vh;
+}
+.tools-container{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 500px;
+  float: right;
+  align-items: center;
+  padding: 1px;
+  margin: 3px;
+  margin-top: 10px;
+}
+.tools {
+    align-items: center;
+  border: 2px solid;
+  font-size: 20px;
+  font-size: 20px;
+  min-height: 450px;
+  margin:1%;
+  color: antiquewhite;
+  line-height: 1.6;
+  padding: 10px;
+  box-shadow: 2px 2px 1px #123c3d;
+}
+.canvas {
+  border: 2px solid;
+  padding: 2px;
+  margin: 1px;
+  display: flex;
+  float: left;
+  box-shadow: 2px 2px 1px #123c3d;
+}
+.button {
+    text-decoration: none;
+    
+    padding: 15px 40px;
+    border-radius: 4px;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: inherit;
+  background: #eceff1;
+  box-shadow: 0 16px 32px #cfd8dc;
+  transition: all 400ms ease;
+}
+.button :hover{
+    background: #fff;
+}
+input[type="number"] {
+  width: 70px;
+  padding: 2px;
+}
+input[type="string"] {
+  width: 90px;
+  padding: 2px;
+  margin-top: 7px;
+}
+
+.button-container{
+    display: flex;
+    float: left;
+    flex-direction: column;
+    
+    width: 20%;
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align-last: center;
+   
+            
+}

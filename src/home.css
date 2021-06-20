@@ -1,0 +1,46 @@
+.home{
+    height: 100vh;
+    background: rgb(33, 104, 104);
+}
+.heading-container{
+    color:rgb(216, 231, 231);
+    float:left;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.heading-1{
+   font-size: 40px;
+    padding: 10px;
+    margin-top: 40%;
+}
+.card-container{
+    float:right;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+/* card css*/
+
+
+
+.card {
+  width: 22rem;
+  max-width: 90%;
+  border: solid 4px #fff;
+  border-radius: 2rem;
+  padding: 0.75rem;
+  text-decoration: none;
+  color: inherit;
+  background: #eceff1;
+  box-shadow: 0 16px 32px #cfd8dc;
+  transition: all 400ms ease;
+  height: 400px;
+  margin-top: 20%;
+}
+.card:hover {
+  background: #fff;
+}
+
