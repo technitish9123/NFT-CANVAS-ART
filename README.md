@@ -32,6 +32,7 @@ and yeah you are good to go.
 >``` npm install -g truffle```
 > ``` truffle compile```
 > ```truffle migrate --reset --network rinkeby ```
+> npm run start
 
 
 
