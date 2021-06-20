@@ -15,8 +15,8 @@ Now Install dependencies by using command
 
 > ``` run command npm i ```
 #### After that compile and migrate truffle
->  Compile it with truffle compile
->  truffle migrate --reset --network rinkeby
+>  Compile it with ``` truffle compile```
+>  ```truffle migrate --reset --network rinkeby ```
 
 ** go to http://testnets.opensea.io/ connect it with with same rinkeby network which is 
 add your art peices on opensea  with your smart contract deployed adress.
