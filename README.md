@@ -2,9 +2,9 @@
 CREATE YOUR OWN ERC721 NFT TOKENS With  Digital Canvas Art 
 
 ###Software Versions
-- node: v14.15.4 - 
-- npm: 6.14.10 - 
-- Truffle: v5.1.59 - 
+- node: v14.x - 
+- npm: 6.x - 
+- Truffle: v5.x- 
 
 ### Configure Truffle-config.js
 1. HDWalletProvider needs Infura API,
