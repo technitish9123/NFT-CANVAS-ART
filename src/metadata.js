@@ -1,6 +1,6 @@
 let metadata = {
     "name": "Art1",
-    "description": "no need for this",
+    "description": "its your wish to write description",
     "image": "image",
     "attributes": []
 }
