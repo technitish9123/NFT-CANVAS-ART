@@ -11,8 +11,8 @@ const ipfsAPI = require('ipfs-api')
 const ipfs = ipfsAPI('ipfs.infura.io', '5001', { protocol: 'https' })
 
 const INFURA_HTTPS = "https://ipfs.infura.io/ipfs/";
-const WIDTH = 1000;
-const HEIGHT = 400;
+
+
 
 function CanvasComponent  ({ deployedContract, account })  {
     const canvasRef = useRef();
