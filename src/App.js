@@ -83,7 +83,7 @@ function App() {
        <div className="detail">
        <hr />
         <p>Deployed Contract's Address: <b>{deployedContract?._address}</b> </p>
-        <p>My Metamask Account: <b>{account} </b></p>
+        <p>connected Metamask Account: <b>{account} </b></p>
         <p>My Balance: <b>{balance}</b> </p>
         <p>Deployed Contract's Name / Symbol:<b> {name}/{symbol} </b></p>
       </div>
